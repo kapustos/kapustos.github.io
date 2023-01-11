@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: rgb(174, 235, 235);
+}
+
+.one {
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    color: rgb(240, 101, 120);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(218, 27, 176);
+    font-family: Comic Sans MS;
+}
+
+img {
+    text-align: center;
+    width: 320px;
+    padding: 30px;
+    border-radius: 100px;
+}
+ 
+div {
+    text-align: center;
+    display: inline-block;
+}
+.two {
+font-size: 25px;
+color: rgb(151, 32, 32);
+font-style: italic;
+}
+
+
+
